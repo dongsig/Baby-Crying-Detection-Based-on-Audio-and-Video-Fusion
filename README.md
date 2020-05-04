@@ -20,7 +20,7 @@ you can download unprocessing data from  [here](https://drive.google.com/drive/f
 
   Download precessing  video data from [here](https://drive.google.com/drive/folders/1Bl-f6wEj_j5QbNH8t6aFX5EJ5cyYCIwe?usp=sharing).
 
- Download precessing  audio data from [here]( [here](https://drive.google.com/drive/folders/1Bl-f6wEj_j5QbNH8t6aFX5EJ5cyYCIwe?usp=sharing).).
+ Download precessing  audio data from [here](https://drive.google.com/drive/folders/1Bl-f6wEj_j5QbNH8t6aFX5EJ5cyYCIwe?usp=sharing).
 
 Some suggest  :  you can develop  self work by these dataset ,and you can put precessing audio and video data in our code at right file path.
 
@@ -30,5 +30,12 @@ Some suggest  :  you can develop  self work by these dataset ,and you can put pr
 
 
 
+# references
 
 
+
+[1] Gemmeke J F, Ellis D P W, Freedman D, et al. Audio set: An ontology and human-labeled dataset for audio events[C]//2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2017: 776-780.
+
+[2]Khurram Soomro, Amir Roshan Zamir and Mubarak Shah, UCF101: A Dataset of 101 Human Action Classes From 
+
+Videos in The Wild, CRCV-TR-12-01, November, 2012.
