@@ -28,6 +28,24 @@ Some suggest  :  you can develop  self work by these dataset ,and you can put pr
 
 #  How to run our code?
 
+## tip:
+
+We develop our code in google colab. so it just  publish a .ipynb file . And our paper  work have some fixed  in the finally push. We aim to prove dataset for your self work .And give you some suggest code if you want to use audio video fusion method .
+
+ ## framework 
+
+![image-20200504163153275](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200504163153275.png)
+
+### 1 
+
+ this path exit processing video data. The reason why  path  name is 3DCNN is that we create it do 3D conv example firstly.
+
+## 2
+
+SVM file path exit processing audio data . It is first use in SVM example . Both of 1 and 2 have two class : crying and no crying.
+
+## 3 
+
 
 
 # references
