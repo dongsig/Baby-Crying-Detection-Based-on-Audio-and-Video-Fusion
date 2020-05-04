@@ -38,13 +38,67 @@ We develop our code in google colab. so it just  publish a .ipynb file . And our
 
 ### 1 
 
- this path exit processing video data. The reason why  path  name is 3DCNN is that we create it do 3D conv example firstly.
+ this path exist processing video data. The reason why  path  name is 3DCNN is that we create it do 3D conv example firstly.
 
 ## 2
 
-SVM file path exit processing audio data . It is first use in SVM example . Both of 1 and 2 have two class : crying and no crying.
+SVM file path exist processing audio data . It is first use in SVM example . Both of 1 and 2 have two class : crying and no crying.
 
 ## 3 
+
+ We deal our data  use ffmpeg  library . however,I have remove those process code into finishwork.ipynb. So ,this file just is processing demo  without any use.
+
+## 4 
+
+  This text file exist all message about baby crying dataset,you can download 2300 video from a.text .It has youtube ID 、crying start time、 crying end time.  We hope this file help for you looking forward origin.
+
+## 5 
+
+It is key file  in our work. I put almost all work in this file .But  It is not finally version in our paper.  The finally work need contact qq:2425497621 duce some  cooperation with hospital.
+
+##  Step (finshwork.ipynb)
+
+
+
+**step 1: deal data ** 
+
+At first,we use  4 unit  code  deal  raw  data .It generate  3DCNN and SVM path.
+
+**step 2: extract  input data** 
+
+ We extract some feature and input from 3DCNN and SVM. And save them.
+
+**step 3:  train SVM** 
+
+ Train data by SVM  method.
+
+**step 4:  train CNN** 
+
+ Train data by CNN method.
+
+**step 4:  train 3DCNN ** 
+
+ Train data by 3DCNN method. In this unit we solve the problem of timing synchronization  at first. the detail please read 
+
+function read_data().
+
+
+
+**step 5:  train LSTM** 
+
+ Train data by LSTM method.
+
+**step 6:  train audio and video fushion menthod ** 
+
+ Train data by audio and video fushion menthod . There have four  method achieve by keras framework . We suggest you use tensorflow.keras .It also support TPU. 
+
+
+
+##   Result
+
+The result of our finally work.
+
+![image-20200504173151149](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200504173151149.png)
 
 
 
