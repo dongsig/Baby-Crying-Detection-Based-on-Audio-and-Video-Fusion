@@ -1,4 +1,11 @@
 # Baby-Crying-Detection-Based-on-Audio-and-Video-Fusion
+
+
+
+[TOC]
+
+
+
 # Introduction
 
  There are  dataset and code for paper which name is Research of Infant Crying Detection Method Based on Audio and Video Fusion. We create a public dataset about baby crying and  show some detail  code about how to finish our work about improve baby crying detection accuracy. We will introduce how to use this data and how to achieve crying sense by audio and video fusion  method in the following.
@@ -36,7 +43,7 @@ We develop our code in google colab. so it just  publish a .ipynb file . And our
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200504173936373.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpdXBlbmcxOTk3MDExOQ==,size_16,color_FFFFFF,t_70)
 
-### 1 
+## 1 
 
  this path exist processing video data. The reason why  path  name is 3DCNN is that we create it do 3D conv example firstly.
 
