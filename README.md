@@ -34,7 +34,7 @@ We develop our code in google colab. so it just  publish a .ipynb file . And our
 
  ## framework 
 
-![image-20200504163153275](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200504163153275.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200504173936373.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpdXBlbmcxOTk3MDExOQ==,size_16,color_FFFFFF,t_70)
 
 ### 1 
 
@@ -98,7 +98,7 @@ function read_data().
 
 The result of our finally work.
 
-![image-20200504173151149](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200504173151149.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2020050417400116.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpdXBlbmcxOTk3MDExOQ==,size_16,color_FFFFFF,t_70)
 
 
 
