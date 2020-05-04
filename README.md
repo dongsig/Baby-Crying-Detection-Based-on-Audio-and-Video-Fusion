@@ -114,6 +114,6 @@ Videos in The Wild, CRCV-TR-12-01, November, 2012.
 
 
 
-#  ADD
+#  Supplementary explanation
 
 if readme.md file is't work ,please open my blog  at [here](https://blog.csdn.net/liupeng19970119/article/details/105920607)
