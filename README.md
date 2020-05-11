@@ -8,7 +8,7 @@
 
 # Introduction
 
- There are  dataset and code for paper which name is Research of Infant Crying Detection Method Based on Audio and Video Fusion. We create a public dataset about baby crying and  show some detail  code about how to finish our work about improve baby crying detection accuracy. It will introduce how to use this data and how to achieve crying sense by audio and video fusion  method in the following.
+ There are  dataset and code for paper which name is Research of Infant Crying Detection Method Based on Audio and Video Fusion. We create a public dataset about baby crying and  show some detail  code about  improve baby crying detection accuracy. It will introduce how to use this data and  achieve crying sense by audio and video fusion  method in the following.
 
 
 
