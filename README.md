@@ -123,4 +123,4 @@ Videos in The Wild, CRCV-TR-12-01, November, 2012.
 
 #  Supplementary explanation
 
-if readme.md file is't work ,please open my blog  at [here](https://blog.csdn.net/liupeng19970119/article/details/105920607)
+if readme.md file is't work ,please open my blog  at [here](https://github.com/pliang279/awesome-multimodal-ml#courses)
